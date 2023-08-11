@@ -1,0 +1,123 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/macrovascular-complications-amputation---primary.py
+inputModule3:
+  class: File
+  path: python/macrovascular-complications-ankle---primary.py
+inputModule4:
+  class: File
+  path: python/macrovascular-complications-specified---primary.py
+inputModule5:
+  class: File
+  path: python/macrovascular-complications-myocard---primary.py
+inputModule6:
+  class: File
+  path: python/coronary-macrovascular-complications---primary.py
+inputModule7:
+  class: File
+  path: python/macrovascular-complications-ruptur---primary.py
+inputModule8:
+  class: File
+  path: python/lateral-macrovascular-complications---primary.py
+inputModule9:
+  class: File
+  path: python/macrovascular-complications-infarct---primary.py
+inputModule10:
+  class: File
+  path: python/septal-macrovascular-complications---primary.py
+inputModule11:
+  class: File
+  path: python/macrovascular-complications-posterior---primary.py
+inputModule12:
+  class: File
+  path: python/subendocardial-macrovascular-complications---primary.py
+inputModule13:
+  class: File
+  path: python/macrovascular-complications-elevation---primary.py
+inputModule14:
+  class: File
+  path: python/macrovascular-complications-infarctn---primary.py
+inputModule15:
+  class: File
+  path: python/macrovascular-complications-unspecif---primary.py
+inputModule16:
+  class: File
+  path: python/macrovascular-complications-muscle---primary.py
+inputModule17:
+  class: File
+  path: python/macrovascular-complications-aborted---primary.py
+inputModule18:
+  class: File
+  path: python/macrovascular-complications-arrest---primary.py
+inputModule19:
+  class: File
+  path: python/macrovascular-complications-asystole---primary.py
+inputModule20:
+  class: File
+  path: python/macrovascular-complications-cardiac---primary.py
+inputModule21:
+  class: File
+  path: python/macrovascular-complications-cereb---primary.py
+inputModule22:
+  class: File
+  path: python/macrovascular-complications-haemorrhage---primary.py
+inputModule23:
+  class: File
+  path: python/macrovascular-complications-capsule---primary.py
+inputModule24:
+  class: File
+  path: python/macrovascular-complications-basal---primary.py
+inputModule25:
+  class: File
+  path: python/macrovascular-complications-hemisphere---primary.py
+inputModule26:
+  class: File
+  path: python/macrovascular-complications-precerebr---primary.py
+inputModule27:
+  class: File
+  path: python/macrovascular-complications-occlus---primary.py
+inputModule28:
+  class: File
+  path: python/macrovascular-complications-brainstem---primary.py
+inputModule29:
+  class: File
+  path: python/macrovascular-complications-lacunar---primary.py
+inputModule30:
+  class: File
+  path: python/macrovascular-complications-sided---primary.py
+inputModule31:
+  class: File
+  path: python/right-macrovascular-complications---primary.py
+inputModule32:
+  class: File
+  path: python/macrovascular-complications-generalised---primary.py
+inputModule33:
+  class: File
+  path: python/macrovascular-complications-occlusn---primary.py
+inputModule34:
+  class: File
+  path: python/macrovascular-complications-atherosclerosis---primary.py
+inputModule35:
+  class: File
+  path: python/cerebrovascular-macrovascular-complications---primary.py
+inputModule36:
+  class: File
+  path: python/ischaemic-macrovascular-complications---primary.py
+inputModule37:
+  class: File
+  path: python/macrovascular-complications-claudication---primary.py
+inputModule38:
+  class: File
+  path: python/arterial-macrovascular-complications---primary.py
+inputModule39:
+  class: File
+  path: python/macrovascular-complications-iliac---primary.py
+inputModule40:
+  class: File
+  path: python/diabetic-macrovascular-complications---primary.py
+inputModule41:
+  class: File
+  path: python/output-cases.py
